@@ -9,11 +9,6 @@ This is a solution to the [Chrome extension leads tracker project on Scrimba](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [How to install](#how-to-install)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
